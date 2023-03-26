@@ -41,3 +41,6 @@
 ## Directory and Files
 
 ## Curl
+
+## Debugging
+```bash -x ```
